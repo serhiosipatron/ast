@@ -28,30 +28,66 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">О нас</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            Основным направлением деятельности предприятия AutoSTandart  является  производство дисковых тормозных колодок AST на автомобили:
+            Mercedes Sprinter,  Mercedes Vario, Mercedes Vito, Volkswagen Crafter, Volkswagen LT, Volkswagen Т5,  Ford Transit, Iveco, Renault Trafic, Renault Master, Opel  Vivaro, Opel  Movano.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            Предприятие основано в 2005 году. Специалисты постоянно повышают квалификацию, имеют опыт более 10-ти лет в производстве, разработках и тестировании тормозных колодок.
           </p>
+          <p>
+            На сегодняшний день продукция AutoSTandart  пользуется спросом по всей территории Украины. Многолетний опыт в производстве, а также сотрудничество с транспортными компаниями дает возможность с уверенностью говорить о надежном качестве нашей продукции.
+          </p>
+          <p>
+            Тормозные колодки AutoSTandart изготовлены с учетом всех требований к эксплуатации  тормозной системы коммерческого транспорта. В производстве применяются современные технологии и высококачественные материалы.
+          </p>
+          <p>
+            В состав фрикционной смеси тормозной входят компоненты импортного производства,  которые используют ведущие производители. Многокомпонентность обеспечивает надежную работу тормозных колодок, придает им  высокую эффективность торможения в разных по воздействию механических нагрузок и  колебаниях температур.
+          </p>
+          <p>
+            Качество продукции ТМ AST подтверждено сертификатом Государственной системы сертификации УкрСЕПРО Министерства торговли и развития в Украине, соответствует требованиям  стандарта ДСТУ UN/ECE R 90-01:2005 р.5
+          </p>
+          <p>
+            КАРТИНКА???
+          </p>
+          <h2 className="major">Качество</h2>
+          <p>
+            Перед запуском в производство тормозные колодки AutoSTandart испытываются во всех режимах торможения на стендах независимого  автомобилестроительного завода в условиях, максимально приближенных к реальным условиям эксплуатации автомобиля, а также проходят дорожные испытания и тестируется непосредственно на маршрутах городов и дорог.
+          </p>
+          Испытания охватывают следующие параметры:
+          <ul>
+            <li>
+              коэффициент трения;
+            </li>
+            <li>
+              износ диска;
+            </li>
+            <li>
+              усилие отрыва накладки от основания;
+            </li>
+            <li>
+              температурный режим;
+            </li>
+            <li>
+              эффективность торможения
+            </li>
+          </ul>
+          Разработанная специалистами и внедренная в производство технология изготовления тормозных колодок AutoSTandart  гарантирует:
+          <ul>
+            <li>
+              Эффективное бесшумное торможение без посторонних звуков;
+            </li>
+            <li>
+              тормозные колодки дают минимальный и  равномерный износ диска (коэффициент износа дисков меньше других производителей);
+            </li>
+            <li>
+              эффективность и  качество торможения сохраняются   при повышенных нагрузках    на сложных участках городских дорог и трасс
+            </li>
+          </ul>
           {close}
         </article>
 
